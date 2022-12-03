@@ -1,5 +1,5 @@
 # Miinaharava
-Ohjelmoinnin alkeet 2022
+Ohjelmoinnin alkeet, Oulun Yliopisto (2022)
 
 ![plot](miinaharava.png)
 
