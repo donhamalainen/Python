@@ -1,0 +1,3 @@
+I took a master's thesis course in Software Development, Maintenance and Operations 2024/2025, where we had to create a group project. We were given a large CSV file with about 110,000 rows of data. This data had to be parsed and searched for unique "keys" in the projects column. I decided to implement a python script to search for unique projects. There were 370 of these in total. I then had to find the github addresses for these. We quickly realised that we needed to parse the project name and insert it into a CSV file.
+
+By running this file you can see an example file that I have included as part of this.
